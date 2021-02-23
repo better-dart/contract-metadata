@@ -1,5 +1,9 @@
 ///
 /// token symbol:
 ///
-
-const TokenUNI = '';
+class TokenSymbol {
+  static final seth = 'SETH';
+  static final uniSwap = 'UNI';
+  static final usdt = 'USDT';
+  static final busd = 'BUSD';
+}
